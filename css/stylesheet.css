@@ -352,7 +352,7 @@ body {
 }
 
 .services-list div h2 {
-	/* color: #0ef; */
+	color: rgb(6, 217, 250);
 	font-size: 25px;
 	font-weight: 500;
 	margin-bottom: 10px;
