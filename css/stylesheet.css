@@ -371,7 +371,7 @@ body {
 
 /* for project bg */
 .bg-container1 {
-	background-image: linear-gradient(to top, #000000ef, transparent 150%), url(/images/facial-recognition.png);
+	background-image: linear-gradient(to top, #000000ef, transparent 150%), url(/images/facialrecognition.png);
 	background-size: cover;
 	/* background-repeat: no-repeat; */
 	max-height: 100vh;
@@ -380,7 +380,7 @@ body {
 }
 
 .bg-container2 {
-	background-image: linear-gradient(to top, #000000ef, transparent 100%), url(/images/web_dev.webp);
+	background-image: linear-gradient(to top, #000000ef, transparent 100%), url(/images/webdev.webp);
 	background-size: cover;
 	/* background-repeat: no-repeat; */
 	max-height: 100vh;
@@ -389,7 +389,7 @@ body {
 }
 
 .bg-container3 {
-	background-image: linear-gradient(to top, #000000ef, transparent 150%), url(/images/Bus-reservation.jpg);
+	background-image: linear-gradient(to top, #000000ef, transparent 150%), url(/images/Busreservation.jpg);
 	background-size: cover;
 	/* background-repeat: no-repeat; */
 	max-height: 100vh;
